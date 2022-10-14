@@ -1,0 +1,247 @@
+.navigation {
+    margin-top: 20px;
+    margin-bottom: 25px;
+    vertical-align: middle;
+    position: fixed;
+    top: 0px;
+    background-color: aliceblue;
+    z-index: 100;
+}
+
+body {
+    height: 1500px;
+}
+
+
+
+nav {
+    display: inline-block;
+
+}
+
+li {
+
+    display: inline-block;
+    margin-right: 16px;
+    margin-left: 18px;
+    font-size: 11px;
+    color: #343638;
+}
+
+.imglogo {
+    width: 40px;
+    height: 11px;
+    margin-left: 20px;
+    margin-right: 80px;
+    vertical-align: middle;
+
+}
+
+.imgprofile {
+    width: 30px;
+    height: 30px;
+    vertical-align: middle;
+}
+
+/* This is the end of header */
+h2 {
+    margin-left: 160px;
+    margin-top: 75px;
+    margin-bottom: 40px;
+    font-family: 'Open Sans', sans-serif;
+    font-style: normal;
+
+}
+
+.conta {
+    width: 1170px;
+    margin: auto;
+}
+
+
+
+.leftbox {
+    width: 360px;
+    height: 360px;
+    margin-right: 40px;
+    background-color: #ffffff;
+    position: relative;
+    display: inline-block;
+}
+
+.sonbox {
+    position: absolute;
+    /* width: 360px;
+    height: 180px; */
+
+}
+
+.imgbase {
+    top: 50%;
+}
+
+.img1 {
+    top: 0;
+}
+
+.p1 {
+    color: #a6adb4;
+    size: 13px;
+    top: 70%;
+    padding-left: 40px;
+    margin-bottom: 10px;
+
+}
+
+.ptitle {
+    font-size: 16px;
+    color: white;
+    top: 20px;
+    margin-left: 20px;
+}
+
+
+.imgclock {
+    display: inline-block;
+    width: 16px;
+    height: 16px;
+    margin-left: 40px;
+    bottom: 55px;
+}
+
+.p2 {
+    display: inline-block;
+    color: #a6adb4;
+    size: 11px;
+    padding-left: 56px;
+    /* margin-bottom: 10px; */
+    bottom: 55px;
+
+
+}
+
+/* This is the end of section 1 - first box */
+
+.middlebox {
+    width: 360px;
+    height: 360px;
+    margin-right: 40px;
+    background-color: #ffffff;
+    position: relative;
+    display: inline-block;
+}
+
+.sonbox2 {
+    position: absolute;
+    /* width: 360px;
+        height: 180px; */
+
+}
+
+.imgbase2 {
+    top: 50%;
+}
+
+.img2 {
+    top: 0;
+}
+
+.p3 {
+    color: #a6adb4;
+    size: 13px;
+    top: 70%;
+    padding-left: 40px;
+    margin-bottom: 10px;
+
+}
+
+.ptitle2 {
+    font-size: 16px;
+    color: white;
+    top: 20px;
+    margin-left: 20px;
+}
+
+
+.imgclock2 {
+    display: inline-block;
+    width: 16px;
+    height: 16px;
+    margin-left: 40px;
+    bottom: 55px;
+}
+
+.p4 {
+    display: inline-block;
+    color: #a6adb4;
+    size: 11px;
+    padding-left: 56px;
+    /* margin-bottom: 10px; */
+    bottom: 55px;
+
+
+}
+
+/* This is the end of section1-middle box */
+
+.rightbox {
+    width: 360px;
+    height: 360px;
+    background-color: #ffffff;
+    position: relative;
+    margin-left: 400px;
+    display: inline-block;
+}
+
+.sonbox3 {
+    position: absolute;
+
+
+    /* width: 360px;
+            height: 180px; */
+
+}
+
+.imgbase3 {
+    top: 50%;
+}
+
+.img3 {
+    top: 0;
+}
+
+.p5 {
+    color: #a6adb4;
+    size: 13px;
+    top: 70%;
+    padding-left: 40px;
+    margin-bottom: 10px;
+
+}
+
+.ptitle3 {
+    font-size: 16px;
+    color: white;
+    top: 20px;
+    margin-left: 20px;
+}
+
+
+.imgclock3 {
+    display: inline-block;
+    width: 16px;
+    height: 16px;
+    margin-left: 40px;
+    bottom: 55px;
+}
+
+.p6 {
+    display: inline-block;
+    color: #a6adb4;
+    size: 11px;
+    padding-left: 56px;
+    /* margin-bottom: 10px; */
+    bottom: 55px;
+
+
+}
