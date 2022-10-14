@@ -63,7 +63,7 @@ h2 {
 .leftbox {
     width: 360px;
     height: 360px;
-    margin-right: 40px;
+    margin-right: 0px;
     background-color: #ffffff;
     position: relative;
     display: inline-block;
@@ -125,7 +125,7 @@ h2 {
 .middlebox {
     width: 360px;
     height: 360px;
-    margin-right: 40px;
+    margin-right: 0px;
     background-color: #ffffff;
     position: relative;
     display: inline-block;
@@ -189,7 +189,7 @@ h2 {
     height: 360px;
     background-color: #ffffff;
     position: relative;
-    margin-left: 400px;
+    margin-left: 365px;
     display: inline-block;
 }
 
@@ -245,3 +245,71 @@ h2 {
 
 
 }
+
+/* Start of Section-2 */
+h3 {
+    margin-left: 160px;
+    margin-top: 75px;
+    margin-bottom: 40px;
+    font-family: 'Open Sans', sans-serif;
+    font-style: normal;
+
+}
+
+.img4 {
+    width: 760px;
+    height: 430px;
+    margin-bottom: 40px;
+}
+
+.img5 {
+    width: 760px;
+    height: 430px;
+    margin-bottom: 40px;
+
+}
+
+.leftImgs {
+    position: relative;
+    /* display: inline;
+    vertical-align: top; */
+}
+
+.leftImg1 {
+    position: absolute;
+}
+
+
+
+.imgbox {
+    vertical-align: top;
+    display: inline-block;
+    position: relative;
+    margin-left: 800px;
+}
+
+.imgBoxSon {
+    position: absolute;
+}
+
+.img6 {
+    top: 0px;
+    width: 360px;
+    height: 210px;
+    margin-bottom: 102px;
+}
+
+.img7 {
+    top: 312px;
+    width: 360px;
+    height: 210px;
+    margin-bottom: 102px;
+}
+
+.img8 {
+    top: 624px;
+    width: 360px;
+    height: 210px;
+}
+
+/* დამრჩა ფუტერი და ჩარჩოებია გასასწორებელი */
